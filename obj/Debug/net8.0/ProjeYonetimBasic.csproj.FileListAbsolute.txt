@@ -1,0 +1,14 @@
+/Users/ahmetemreari/Desktop/ProjectManegament/ProjeYonetimBasic/obj/Debug/net8.0/ProjeYonetimBasic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetemreari/Desktop/ProjectManegament/ProjeYonetimBasic/obj/Debug/net8.0/ProjeYonetimBasic.AssemblyInfoInputs.cache
+/Users/ahmetemreari/Desktop/ProjectManegament/ProjeYonetimBasic/obj/Debug/net8.0/ProjeYonetimBasic.AssemblyInfo.cs
+/Users/ahmetemreari/Desktop/ProjectManegament/ProjeYonetimBasic/obj/Debug/net8.0/ProjeYonetimBasic.csproj.CoreCompileInputs.cache
+/Users/ahmetemreari/Desktop/ProjectManegament/ProjeYonetimBasic/bin/Debug/net8.0/ProjeYonetimBasic
+/Users/ahmetemreari/Desktop/ProjectManegament/ProjeYonetimBasic/bin/Debug/net8.0/ProjeYonetimBasic.deps.json
+/Users/ahmetemreari/Desktop/ProjectManegament/ProjeYonetimBasic/bin/Debug/net8.0/ProjeYonetimBasic.runtimeconfig.json
+/Users/ahmetemreari/Desktop/ProjectManegament/ProjeYonetimBasic/bin/Debug/net8.0/ProjeYonetimBasic.dll
+/Users/ahmetemreari/Desktop/ProjectManegament/ProjeYonetimBasic/bin/Debug/net8.0/ProjeYonetimBasic.pdb
+/Users/ahmetemreari/Desktop/ProjectManegament/ProjeYonetimBasic/obj/Debug/net8.0/ProjeYonetimBasic.dll
+/Users/ahmetemreari/Desktop/ProjectManegament/ProjeYonetimBasic/obj/Debug/net8.0/refint/ProjeYonetimBasic.dll
+/Users/ahmetemreari/Desktop/ProjectManegament/ProjeYonetimBasic/obj/Debug/net8.0/ProjeYonetimBasic.pdb
+/Users/ahmetemreari/Desktop/ProjectManegament/ProjeYonetimBasic/obj/Debug/net8.0/ProjeYonetimBasic.genruntimeconfig.cache
+/Users/ahmetemreari/Desktop/ProjectManegament/ProjeYonetimBasic/obj/Debug/net8.0/ref/ProjeYonetimBasic.dll
